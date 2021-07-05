@@ -9,5 +9,10 @@ end
 # so they will be available to test and play around with in your console
 
 binding.pry
+##To-do's
+=begin
+   1.Create test cases
+=end
+
 0 #leave this here to ensure binding.pry isn't the last line
 
